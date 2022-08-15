@@ -102,7 +102,7 @@ function csi_register_settings() {
     array( 
       'id'    => 'file_size',
       'label' => 'MB',
-      'supplemental' => 'max available ' . filesize_formatted( null, wp_max_upload_size() )
+      'supplemental' => 'max available ' . csi_filesize_formatted( null, wp_max_upload_size() )
     )
   );
 
