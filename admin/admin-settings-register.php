@@ -89,7 +89,7 @@ function csi_register_settings() {
     array( 
       'id'    => 'limit_size',
       'label' => 'Enable',
-      'supplemental' => 'Reject images upload over set file size.'
+      'supplemental' => 'Reject images uploaded over a set file size.'
     )
   );
 
