@@ -3,7 +3,7 @@
 ************************************************************************
  
 Plugin Name:  Cleanup Scaled Images
-Description:  Delete original file for scaled images to make project lighter.
+Description:  Delete original file for scaled images to make the project lighter.
 Version:      1.0.0
 Author:       Andrius Sokoklnikovas
 Author URI:   https://andriussok.lt
