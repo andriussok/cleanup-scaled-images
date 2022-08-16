@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
     <div class="content">
       
       <!-- <h2>Cleanup</h2> -->
-      <p>Find all scaled images and delete originals asociated with them.</p>
+      <p>Find all scaled images and delete originals related to them.</p>
       <form method="post" id="cleanup-files">
         <p class="submit">
           <input type="submit" name="submit" id="runSearch" class="button button-secondary button-hero" value="Run Dry Search" action="csi_run_search_action" style="margin-right:1em">
